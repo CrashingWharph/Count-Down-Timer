@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- style sheets -->
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
+    <title>countdown page</title>
+</head>
+<body>
+   <div class="container">
+        <!-- video -->
+        <video autoplay muted loop id="myVideo">
+          <source src="./media/lucian.mp4" type="video/mp4">
+        </video>
+
+    <div class="home-content">
+     <div class="message-box">
+        <h1>2024<br>COUNTDOWN TIMER </h1>
+     </div>
+      <!-- count_down_timer -->
+      <div class="launch-timer" id="row">
+        <div class="time-slot">
+             <p id="days">00</p>
+             <h4>DAYS</h4>
+        </div>
+        <div class="time-slot">
+             <p id="hours">00</p>
+             <h4>HOURS</h4>
+        </div>
+        <div class="time-slot">
+             <p id="minutes">00</p>
+             <h4>MINUTES</h4>
+        </div>
+        <div class="time-slot">
+            <p id="seconds">00</p>
+            <h4>SECONDS</h4>
+        </div>
+     </div>
+     <!-- join subscription -->
+     <div class="subscription">
+        <p>subscribe to get notified</p>
+        <div class="button-wrap"><button data-dialog="somedialog" class="trigger">SUBSCRIBE</button></div>
+    </div>
+
+    <div id="somedialog" class="dialog">
+      <div class="dialog__overlay"></div>
+      <div class="dialog__content">
+        <h2><strong>Howdy</strong>, I'm a dialog box</h2><div><button class="action" data-dialog-close>Close</button></div>
+      </div>
+    </div>
+    
+  </div>
+</div>
+    <!-- javascript -->
+    <script src="./js/timer.js"></script>
+    <script src="./js/module.js"></script>
+</body>
+</html>
+
+
+<!-- add media queries
+    1) make search-bar disappear when page shrinks -->
+    
