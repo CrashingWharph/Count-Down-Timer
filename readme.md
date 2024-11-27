@@ -2,4 +2,4 @@
 2024 and Counting 
 
 preview 
-https://github.com/CrashingWharph/Count-Down-Timer.git
+[https://github.com/CrashingWharph/Count-Down-Timer.git](https://crashingwharph.github.io/Count-Down-Timer/)
