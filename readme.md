@@ -2,7 +2,7 @@
 2024 and Counting 
 
 # preview 
-https://crashingwharph.github.io/count-down-timer/
+[https://crashingwharph.github.io/count-down-timer/](https://crashingwharph.github.io/count-down-timer/)
 
 # project info
 1) html, css, javascript.
