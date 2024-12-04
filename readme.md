@@ -4,7 +4,7 @@
 # Click link (below) to preview 
 [https://crashingwharph.github.io/count-down-timer/](https://crashingwharph.github.io/count-down-timer/)
 
-# project info
+# Project info
 1) html, css, javascript.
 2) features reset timer and loading spinner.
 3) video background.
