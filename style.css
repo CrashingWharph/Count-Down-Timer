@@ -52,7 +52,7 @@ body {
     align-items: center;
     justify-content: center;
     text-align: center;
-    z-index: 2;
+    z-index: 1;
 }
 
 /* ----- message-box ----- */
