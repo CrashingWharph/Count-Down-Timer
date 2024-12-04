@@ -1,7 +1,7 @@
 # Count-Down-Timer
 2024 and Counting 
 
-# Click link (below) to preview 
+# Click the link (below) to see preview
 [https://crashingwharph.github.io/count-down-timer/](https://crashingwharph.github.io/count-down-timer/)
 
 # Project info
